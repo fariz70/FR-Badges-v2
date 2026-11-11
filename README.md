@@ -88,7 +88,7 @@ Copy the link for the style you want and use **one** style at a time. The guide 
 </details>
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges.json
+https://raw.githubusercontent.com/fariz70/FR-Badges-v2/main/badges.json
 ```
 
 ### Neon
@@ -103,7 +103,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges.json
 </details>
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-neon.json
+https://raw.githubusercontent.com/fariz70/FR-Badges-v2/main/badges-neon.json
 ```
 
 ### Solid
@@ -118,7 +118,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-neon.json
 </details>
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-solid.json
+https://raw.githubusercontent.com/fariz70/FR-Badges-v2/main/badges-solid.json
 ```
 
 ### Frost
@@ -133,7 +133,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-solid.json
 </details>
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-frost.json
+https://raw.githubusercontent.com/fariz70/FR-Badges-v2/main/badges-frost.json
 ```
 
 ### Black & White
@@ -148,7 +148,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-frost.json
 </details>
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-black-white.json
+https://raw.githubusercontent.com/fariz70/FR-Badges-v2/main/badges-black-white.json
 ```
 
 ### White & Black
@@ -163,7 +163,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-black-white.
 </details>
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-white-black.json
+https://raw.githubusercontent.com/fariz70/FR-Badges-v2/main/badges-white-black.json
 ```
 
 ### Minimal
@@ -178,7 +178,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-white-black.
 </details>
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-minimal.json
+https://raw.githubusercontent.com/fariz70/FR-Badges-v2/main/badges-minimal.json
 ```
 
 ### Icon Dark
@@ -193,7 +193,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-minimal.json
 </details>
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-icon-dark.json
+https://raw.githubusercontent.com/fariz70/FR-Badges-v2/main/badges-icon-dark.json
 ```
 
 ### Split
@@ -208,7 +208,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-icon-dark.js
 </details>
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-split.json
+https://raw.githubusercontent.com/fariz70/FR-Badges-v2/main/badges-split.json
 ```
 
 ### Neon Icon
@@ -223,7 +223,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-split.json
 </details>
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-neon-icon.json
+https://raw.githubusercontent.com/fariz70/FR-Badges-v2/main/badges-neon-icon.json
 ```
 
 ### Light
@@ -238,7 +238,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-neon-icon.js
 </details>
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-light.json
+https://raw.githubusercontent.com/fariz70/FR-Badges-v2/main/badges-light.json
 ```
 
 ### Icon Light
@@ -253,7 +253,7 @@ https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-light.json
 </details>
 
 ```
-https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/badges-icon-light.json
+https://raw.githubusercontent.com/fariz70/FR-Badges-v2/main/badges-icon-light.json
 ```
 
 If the app caches images, clear its cache after switching styles.
